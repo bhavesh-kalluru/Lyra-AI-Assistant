@@ -1,7 +1,6 @@
-# Lyra-AI-Assistant
-Your personal AI assistant for macOS built using Python, OpenAI GPT, and Tkinter.
 
 # Lyra AI Assistant
+Your personal AI assistant for macOS built using Python, OpenAI GPT, and Tkinter.
 
 Lyra is a smart personal AI assistant for macOS that can open applications, play YouTube videos, search Amazon products, and interact via natural language commands using OpenAI’s GPT API.
 
@@ -15,10 +14,6 @@ Lyra is a smart personal AI assistant for macOS that can open applications, play
 - Integrated with OpenAI GPT-4 for advanced natural language understanding
 - Supports multiple commands separated by commas or conjunctions (`and`, `then`)
 - Simple and intuitive GUI interface with command input and icon display
-
----
-
-## Installation
 
 ### Prerequisites
 
