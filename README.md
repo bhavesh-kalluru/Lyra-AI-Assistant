@@ -18,12 +18,6 @@ Lyra is a smart personal AI assistant for macOS that can open applications, play
 
 ---
 
-## Screenshots
-
-![Lyra AI Assistant Interface](path_to_your_screenshot.png)
-
----
-
 ## Installation
 
 ### Prerequisites
